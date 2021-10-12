@@ -1,0 +1,39 @@
+* {
+    background-color:#bdb2ff;
+}
+ h1,h2{
+     font-family: sans-serif;
+     color: #006d77;
+ }
+
+ #Search{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+
+ }
+ #log{
+     background-color: #43aa8b;
+     font-family: monospace;
+ }
+ #sign{
+     background-color: #43aa8b;
+     font-family: monospace;
+ }
+ #Vote{
+  
+     font-family: monospace;
+    
+ }
+ #Vote2{
+     
+     font-family: monospace;
+ }
+ #vote3{
+    
+     font-family: monospace;
+ }
+
+ h2 + button {
+    background-color: #0077b6; 
+
+
+ }
